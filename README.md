@@ -1,0 +1,1 @@
+Analytix Camp GenAI Course
