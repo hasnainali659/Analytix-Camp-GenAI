@@ -459,6 +459,6 @@ def process_document(pdf_path: str, doc_class: str):
         raise
 
 if __name__ == "__main__":
-    pdf_path = "docs/Khawer-CV.pdf" 
+    pdf_path = "docs/Hasnain Ali Resume.pdf" 
     doc_class = DocClass.RESUME.value
     process_document(pdf_path, doc_class)
